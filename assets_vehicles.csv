@@ -1,0 +1,302 @@
+Asset,Description,Date,Cost,Running_Costs,tax_deduction,Purchased_by
+BMW r100,Purchase,2001-11-19,6500,no,no,Thomas
+BMW r100,Battery,2002-06-23,190,no,no,Thomas
+BMW r100,Gasket,2002-10-03,57,no,no,Thomas
+BMW r100,Tyres MCA,2002-10-24,244,no,no,Thomas
+BMW r100,Indicator Relay,2002-11-10,111,no,no,Thomas
+BMW r100,Rego / Slip,2002-11-25,110,yes,no,Thomas
+BMW r100,Green Slip,2002-11-25,650,yes,no,Thomas
+BMW r100,Oil Leak inspection,2002-11-28,50,no,no,Thomas
+BMW r100,Gearbox aoverhaul,2002-12-18,751,no,no,Thomas
+BMW r100,Ignition Wire,2003-04-25,180,no,no,Thomas
+BMW r100,Overhaul cylinder head,2003-07-30,160,no,no,Thomas
+BMW r100,"Kruemmer, Auspuffschellen, Sternmutter, Kolbenringsatz, Ventideckeldichtung, Zylinderkopfdichtung 592 Euro",2003-06-05,986.666666666667,no,no,Thomas
+BMW r100,Fairing Sale,2003-06-09,-500,no,no,Thomas
+BMW r100,Send back Sammler -171 Euro,2003-08-08,-285,no,no,Thomas
+BMW r100,"REgler, Anlasser, Winkelventil 250 Euro",2003-08-08,416.666666666667,no,no,Thomas
+BMW r100,??? 18 Euro,2003-07-26,30,no,no,Thomas
+BMW r100,Rego / Slip,2003-11-25,120,yes,no,Thomas
+BMW r100,Green Slip,2003-11-25,660,yes,no,Thomas
+BMW r100,Swing bearing,2004-01-07,160,no,no,Thomas
+BMW r100,Clutch,2004-01-07,757,no,no,Thomas
+BMW r100,Gearbox respline,2004-01-24,631,no,no,Thomas
+BMW r100,Gearbox recondition redo bearings on second box,2004-02-21,935,no,no,Thomas
+BMW r100,"Luftfilter, Mittelverlegung, Bremsscheibe (239 Euro)",2004-01-06,398.333333333333,no,no,Thomas
+BMW r100,Kupplung (73 Euro,2004-01-22,121.666666666667,no,no,Thomas
+BMW r100,Cables,2004-05-23,380,no,no,Thomas
+BMW r100,Tyres,2004-11-07,466,no,no,Thomas
+BMW r100,Green Slip,2004-11-25,672,yes,no,Thomas
+BMW r100,Rego / Slip,2004-11-25,120,yes,no,Thomas
+BMW r100,Battery,2004-12-12,120,no,no,Thomas
+BMW x650,Purchase,2004-12-21,12627,no,no,Thomas
+BMW x650,Roadside assist,2004-12-23,99,yes,no,Thomas
+BMW r100,Seat Works,2005-02-19,50,no,no,Thomas
+BMW x650,Run in Check,2005-03-12,257,no,no,Thomas
+BMW r100,Seat Works,2005-02-19,50,no,no,Thomas
+BMW r100,DEUS front light,2005-04-29,350,no,no,Thomas
+BMW r100,Mezteler Tourance Tyres,2005-05-01,369,no,no,Thomas
+BMW x650,Headlight,2005-10-07,420,no,no,Thomas
+BMW r100,Rego / Slip,2005-11-25,120,yes,no,Thomas
+BMW r100,Green Slip,2005-11-25,664,yes,no,Thomas
+BMW x650,Insurance,2005-11-29,403,yes,no,Thomas
+BMW x650,Green Slip,2005-12-22,487,yes,no,Thomas
+BMW x650,Rego,2005-01-22,106,yes,no,Thomas
+BMW x650,"Touratech Rack, Air Filter",2005-12-16,198,no,no,Thomas
+BMW x650,Roadside assist,2005-12-23,99,yes,no,Thomas
+BMW r100,Muffler (650 Euro),2006-05-29,1083.33333333333,,no,Thomas
+BMW r100,Suspension Reconditioning,2006-09-17,290.73,,no,Thomas
+BMW r100,Seat Works,2006-09-19,20,,no,Thomas
+BMW r100,Tyres to Woody / Anthony,2006-09-27,-100,,no,Thomas
+BMW r100,Bullet Paint,2006-10-09,100,no,no,Thomas
+BMW r100,Boxup (105 Euro),2006-10-12,140.906666666667,no,no,Thomas
+BMW r100,Brake container (58.36 Euro),2006-11-11,77.8133333333333,no,no,Thomas
+BMW r100,Green Slip,2006-12-25,780,yes,no,Thomas
+BMW r100,Rego / Slip,2006-12-25,120,yes,no,Thomas
+BMW x650,Inspection,2006-03-08,289,no,no,Thomas
+BMW x650,Front Brake Pads,2006-03-10,160,no,no,Thomas
+BMW x650,Rear Brake Calliper (328Euro),2006-03-10,504.615384615385,no,no,Thomas
+BMW x650,Front Brake Pads,2006-03-10,60,no,no,Thomas
+BMW x650,Rear Brake Pads,2006-03-10,80,no,no,Thomas
+BMW x650,Rego,2006-12-10,111,yes,no,Thomas
+BMW x650,Green Slip,2006-12-10,379,yes,no,Thomas
+BMW x650,Insurance,2006-12-10,402,yes,no,Thomas
+BMW x650,Roadside assist,2006-12-10,99,yes,no,Thomas
+BMW x650,Inspection,2007-02-07,394,no,no,Thomas
+BMW r100,Gear box tools (125 Euro),2007-05-15,208.533333333333,no,no,Thomas
+BMW r100,Spring for gear box,2007-09-30,8,no,no,Thomas
+BMW r100,Bunnings - Paint wheels,2007-10-09,68,no,no,Thomas
+BMW x650,Tyres,2007-12-08,406.8,no,no,Thomas
+BMW x650,Passenger Pegs,2007-12-08,420,no,no,Thomas
+BMW x650,Green Slip,2007-12-13,379,yes,no,Thomas
+BMW x650,Rego,2007-12-13,111,yes,no,Thomas
+BMW x650,Insurance,2007-12-13,402,yes,no,Thomas
+BMW x650,Roadside assist,2007-12-13,99,yes,no,Thomas
+BMW x650,Light Guard,2008-02-01,48,no,no,Thomas
+BMW x650,"Inspection as 20000km, brake disc, pads",2008-04-26,999.92,no,no,Thomas
+BMW r100,Green Slip,2008-04-30,458,yes,no,Thomas
+BMW r100,Rego / Slip,2008-04-30,150,yes,no,Thomas
+BMW x650,"Rear Tyre, Broken Hill",2008-05-25,239,no,no,Thomas
+BMW x650,Sprocket,2008-05-30,40,no,no,Thomas
+BMW x650,"Chain, Sprocket",2008-06-12,268,no,no,Thomas
+BMW x650,"Clutch Lever, Mirror",2008-06-22,200.55,no,no,Thomas
+BMW x650,Shock (999 Euro),2008-06-22,1233.33333333333,no,no,Thomas
+Toyota Troopy Thomas,Purchase,2008-07-30,30250,no,no,Thomas
+BMW x650,Barkbusters,2008-07-01,165,no,no,Thomas
+Toyota Troopy Thomas,Fuel filter,2008-11-15,122.08,no,no,Thomas
+Toyota Troopy Thomas,Handle jack,2008-11-15,40,no,no,Thomas
+Toyota Troopy Thomas,Sat phone transfer,2008-11-14,140,no,no,Thomas
+Toyota Troopy Thomas,Tyre,2008-12-14,349,no,no,Thomas
+Toyota Troopy Thomas,Bluetooth car radio (estimated),2008-12-14,80,no,no,Thomas
+BMW x650,Battery,2008-11-28,250,no,no,Thomas
+BMW x650,Green Slip,2008-12-06,319,yes,no,Thomas
+BMW x650,Rego,2008-12-22,114,yes,no,Thomas
+BMW x650,Insurance,2008-12-22,348,yes,no,Thomas
+BMW x650,Roadside assist,2008-12-22,99,yes,no,Thomas
+Toyota Troopy Thomas,Windscreen chip repair,2009-01-20,179,no,no,Thomas
+Toyota Troopy Tara 2008,Purchase,2018-12-31,23351,no,no,Tara
+Toyota Troopy Tara 2008,Wyong Automatic,2009-02-13,1697.8,no,no,Tara
+BMW x650,clutch,2009-03-07,1032.55,no,no,Thomas
+BMW x650,Tyre,2009-04-02,140,no,no,Thomas
+Toyota Troopy Thomas,Rego,2009-04-28,1019,yes,no,Thomas
+Toyota Troopy Thomas,Green slip,2009-04-28,542,yes,no,Thomas
+BMW r100,Green Slip,2009-04-30,458,yes,no,Thomas
+BMW r100,Rego,2009-04-30,150,yes,no,Thomas
+Toyota Troopy Thomas,NRMA (estimated),2009-06-02,190,yes,no,Thomas
+Toyota Troopy Thomas,Service,2009-06-02,497.28,no,no,Thomas
+Toyota Troopy Thomas,Spares Cairns,2009-06-11,250,no,no,Thomas
+Toyota Troopy Thomas,Tyre and Wheel Burketown,2009-06-14,800,no,no,Thomas
+Toyota Troopy Thomas,Alignment Broome,2011-07-14,161.5,no,no,Thomas
+Toyota Troopy Thomas,Tyres Bridgestone,2009-07-25,567,no,no,Thomas
+BMW x650,Clutch Cable,2009-07-31,79.47,no,no,Thomas
+Toyota Troopy Thomas,Service Wyong,2009-08-02,1013.9,no,no,Thomas
+Toyota Troopy Thomas,Service Wyong,2009-08-19,1543.15,no,no,Thomas
+BMW x650,Head bearing,2009-11-10,234,no,no,Thomas
+BMW x650,Green Slip,2009-12-14,320,yes,no,Thomas
+BMW x650,Insurance,2009-12-14,316,yes,no,Thomas
+BMW x650,Rego,2009-12-14,115,yes,no,Thomas
+BMW x650,Roadside assist,2009-12-14,99,yes,no,Thomas
+BMW x650,Tyre,2010-01-10,148,no,no,Thomas
+BMW x650,Tyre,2010-01-05,256.28,no,no,Thomas
+BMW x650,Shock,2010-01-30,387,no,no,Thomas
+Toyota Troopy Thomas,Rego check / lights,2010-04-10,61.15,no,no,Thomas
+Toyota Troopy Thomas,Pink Slip,2010-04-10,36.4,yes,no,Thomas
+Toyota Troopy Thomas,Rego,2010-04-27,482,yes,no,Thomas
+Toyota Troopy Thomas,Green slip,2010-04-17,542,yes,no,Thomas
+Toyota Troopy Thomas,NRMA,2010-06-08,199,yes,no,Thomas
+BMW x650,Service,2010-06-10,549.37,no,no,Thomas
+Toyota Troopy Tara 2008,Wyong Automatic,2010-08-20,1758.1,no,no,Tara
+BMW x650,Green Slip,2010-12-14,304,yes,no,Thomas
+BMW x650,Insurance,2010-12-14,309,yes,no,Thomas
+BMW x650,Rego,2010-12-14,120,yes,no,Thomas
+BMW x650,Roadside assist,2010-12-14,99,yes,no,Thomas
+Toyota Troopy Tara 2008,Peter Mac,2011-01-20,247.9,no,no,Tara
+Toyota Troopy Thomas,Fixes for Rego/ shocks,2011-04-15,1989,no,no,Thomas
+Toyota Troopy Thomas,Battery,2011-02-19,205,no,no,Thomas
+Toyota Troopy Thomas,Pink Slip,2011-04-15,37.4,yes,no,Thomas
+Toyota Troopy Thomas,Green Slip,2011-04-27,627,yes,no,Thomas
+Toyota Troopy Thomas,Rego,2011-04-27,495,yes,no,Thomas
+Toyota Troopy Thomas,Third Party,2011-04-30,182,yes,no,Thomas
+Toyota Troopy Thomas,Service,2011-07-14,384.4,no,no,Thomas
+Toyota Troopy Thomas,Water Pump,2011-08-27,895.25,no,no,Thomas
+Toyota Troopy Thomas,NRMA,2011-06-08,199,yes,no,Thomas
+BMW x650,Front Brake + pads,2011-11-24,211.85,no,no,Thomas
+,,,,,no,Thomas
+BMW x650,Service and Pink Slip,2011-12-13,744.79,no,no,Thomas
+EM 5.7 2015,Purchase,2011-11-30,9000,no,no,Thomas
+BMW x650,Green Slip,2011-12-13,317,yes,no,Thomas
+BMW x650,Rego,2011-12-13,122,yes,no,Thomas
+BMW x650,Insurance,2012-01-11,312,yes,no,Thomas
+Toyota Troopy Tara 2008,Tyreright,2012-01-17,1250,,,Tara
+BMW x650,Roadside assist,2012-02-17,200,yes,no,Thomas
+BMW x650,"Clutch, Clutch cable",2012-03-06,1424.38,no,no,Thomas
+Toyota Troopy Thomas,"Front tires, wheel alignment",2012-03-18,700,no,no,Thomas
+BMW x650,Battery,2012-03-31,219.95,no,no,Thomas
+Toyota Troopy Thomas,Rego check,2012-04-27,70,yes,no,Thomas
+Toyota Troopy Thomas,Rego,2012-04-27,511.76,yes,no,Thomas
+Toyota Troopy Thomas,Green slip,2012-05-24,702,yes,no,Thomas
+Toyota Troopy Thomas,Third Party,2012-04-30,212.48,yes,no,Thomas
+Toyota Troopy Thomas,NRMA,2012-05-10,199,yes,no,Thomas
+Toyota Troopy Thomas,"Service Wyong, incl Battery",2012-08-31,671.41,no,no,Thomas
+Toyota Troopy Tara 2008,Repco,2015-09-09,340.5,no,no,Tara
+BMW r100,Car Rental Transfer from Garage,2012-11-11,79,no,no,Thomas
+BMW r100,AliExpress Speedo,2012-11-14,88.07,no,no,Thomas
+BMW r100,Indicator Set,2012-11-14,10.87,no,no,Thomas
+BMW r100,Battery lithium,2012-11-17,326,no,no,Thomas
+BMW x650,"Pink slip, cooling, oil leak, tyres",2012-12-06,1223.09,no,no,Thomas
+BMW x650,Green slip,2012-12-17,432,yes,no,Thomas
+Toyota Troopy Tara 2008,Ayers rock Automotive,2013-01-06,1793.22,no,no,Tara
+BMW r100,Jaycar,2013-01-15,47.4,no,no,Thomas
+BMW x650,Roadside assist,2013-02-08,106,yes,no,Thomas
+Toyota Troopy Thomas,Pink slip,2013-04-26,39,yes,no,Thomas
+Toyota Troopy Thomas,Rego,2013-04-26,514,yes,no,Thomas
+Toyota Troopy Thomas,Green Slip,2013-04-27,724,yes,no,Thomas
+Toyota Troopy Thomas,Third Party,2013-04-27,251,yes,no,Thomas
+BMW r100,Boxxerparts (292.97 Euro),2013-05-02,437.268656716418,no,no,Thomas
+Toyota Troopy Thomas,NRMA,2013-06-08,199,yes,no,Thomas
+BMW x650,"Flat Tyre, Thermostat / Overheating",2013-07-25,800,no,no,Thomas
+BMW r100,Sydney Clutch and Brake Exchange - overhaul,2013-08-25,154,no,no,Thomas
+BMW r100,Munich Motorcycles,2013-08-26,392,no,no,Thomas
+Toyota Troopy Thomas,Service Wyong,2013-11-01,1163.7,no,no,Thomas
+Toyota Troopy Tara 2008,Wyong Automatic,2013-11-08,576.55,no,no,Tara
+EM 5.7 2018,Purchase,2013-11-30,12800,no,no,Thomas
+BMW x650,"Inspection, Pink Slip",2013-12-12,23,yes,no,Thomas
+BMW x650,Green Slip,2013-12-12,263,yes,no,Thomas
+BMW x650,Rego,2013-12-12,127,yes,no,Thomas
+EM 5.7 2015,Charger,2013-12-30,200,no,no,Thomas
+EM 5.7 2015,Power supply,2013-12-30,200,no,no,Thomas
+EM 5.7 2015,Switchbox,2013-12-30,160,no,no,Thomas
+EM 5.7 2015,fender,2013-12-30,65,no,no,Thomas
+EM 5.7 2015,batteries,2013-12-30,800,no,no,Thomas
+BMW x650,Roadside assist,2014-02-01,115,yes,no,Thomas
+Toyota Troopy Thomas,Pink slip,2014-04-19,40,yes,no,Thomas
+Toyota Troopy Thomas,Rego,2014-04-25,530,yes,no,Thomas
+Toyota Troopy Thomas,Green Slip,2014-04-25,350,yes,no,Thomas
+Toyota Troopy Thomas,Third Party,2014-05-02,200,yes,no,Thomas
+Toyota Troopy Thomas,NRMA,2014-05-08,200,yes,no,Thomas
+Toyota Troopy Thomas,Glass Repair,2014-06-30,200,no,no,Thomas
+Toyota Troopy Thomas,Service Wyong,2014-11-21,467,no,no,Thomas
+Toyota Troopy Tara 2013,Purchase,2014-12-11,16125,no,no,Tara
+Toyota Troopy Tara 2013,Purchase,2014-12-11,16125,no,no,Thomas
+BMW x650,Green Slip,2014-12-21,262,yes,no,Thomas
+BMW x650,"Pink slip, rear tube",2014-12-21,136.4,no,no,Thomas
+BMW x650,Rego,2014-12-21,129,yes,no,Thomas
+Toyota Troopy Tara 2008,Wyong Automatic,2015-01-23,435.8,no,no,Tara
+Toyota Troopy Tara 2008,"Fix up (board, carpet, polish, fabric glue)",2015-01-23,300,no,no,Tara
+Toyota Troopy Tara 2008,Sale,2015-01-23,-30000,no,no,Tara
+BMW x650,Roadside assist,2015-02-01,119,yes,no,Thomas
+Toyota Troopy Tara 2013,Transfer to NSW / Petrol,2015-02-28,800,yes,no,Tara
+Toyota Troopy Tara 2013,Rego/ Stamp Duty,2015-02-28,800,yes,no,Tara
+Toyota Troopy Thomas,Pink Slip,2015-04-19,60,yes,no,Thomas
+Toyota Troopy Thomas,Rego,2015-04-19,532,yes,no,Thomas
+Toyota Troopy Thomas,Green slip,2015-04-19,372,yes,no,Thomas
+Toyota Troopy Thomas,NRMA,2015-04-19,200,yes,no,Thomas
+Toyota Troopy Thomas,Third Party,2015-04-19,235,yes,no,Thomas
+EM 2020 VPXTC0101L0000852,Purchase Part 1,2015-06-24,5900,no,no,Thomas
+BMW r100,Sale,2015-06-29,-2900,no,no,Thomas
+Toyota Troopy Tara 2013,Rego NT,2015-06-30,800,yes,no,Tara
+EM 2020 VPXTC0101L0000852,Purchase Part 2,2015-09-22,5850,no,no,Thomas
+BMW x650,Battery MXStore SSB 4-LFP14H-BS,2015-10-04,189.95,no,no,Thomas
+Toyota Troopy Thomas,Service Wyong,2015-10-09,580,no,no,Thomas
+BMW x650,Tube replacement,2015-11-14,25,no,no,Thomas
+BMW x650,Rego,2015-12-12,145,yes,no,Thomas
+BMW x650,Green Slip,2015-12-12,300,yes,no,Thomas
+BMW x650,Roadside Assist,2015-12-12,115,yes,no,Thomas
+EM 5.7 2018,Charger,2015-12-30,370,no,no,Thomas
+EM 5.7 2018,Brake lever,2015-12-30,40,no,no,Thomas
+EM 2020 VPXTC0101L0000852,Purchase Part 3,2016-01-21,2855,no,no,Thomas
+BMW x650,Sale,2016-02-03,-3200,no,no,Thomas
+Toyota Troopy Tara 2013,Wyong Automatic,2016-04-16,800,no,yes,Thomas
+Toyota Troopy Thomas,Pink Slip,2016-04-19,66,yes,no,Thomas
+Toyota Troopy Thomas,Rego,2016-04-19,543,yes,no,Thomas
+Toyota Troopy Thomas,Green slip,2016-04-19,363,yes,no,Thomas
+Toyota Troopy Thomas,NRMA,2016-04-19,204,yes,no,Thomas
+Toyota Troopy Thomas,Third Party,2016-04-19,212,yes,no,Thomas
+Toyota Troopy Thomas,Fuel System Issue,2016-04-19,150,yes,no,Thomas
+Toyota Troopy Tara 2013,Rego NSW,2016-04-29,590,yes,no,Thomas
+Toyota Troopy Tara 2013,Green slip,2016-04-27,530,yes,no,Tara
+Toyota Troopy Tara 2013,Panel Beater,2016-05-06,2000,no,no,Thomas
+Toyota Troopy Tara 2013,Panel Beater,2016-05-21,3000,no,no,Thomas
+EM 2021 VPXTC0000M0000307,Purchase Part 1,2016-06-14,2978,no,no,Thomas
+Toyota Troopy Tara 2013,Seat Belt,2016-09-27,220,no,no,Thomas
+Toyota Troopy Tara 2013,Sale,2016-09-30,-22735,no,no,Thomas
+Toyota Troopy Tara 2013,Sale,2016-09-30,-20255,no,no,Tara
+EM 2021 VPXTC0000M0000307,Purchase Part 2,2016-11-21,13875,no,no,Thomas
+EM 5.7 2015,Sale,2016-12-30,-3500,no,no,Thomas
+EM 5.7 2018,Refund charger,2016-12-30,-370,no,no,Thomas
+EM 5.7 2018,Sale,2016-12-30,-7000,no,no,Thomas
+Toyota Troopy Thomas,Service Wyong,2017-04-19,339,yes,no,Thomas
+Toyota Troopy Thomas,Rego,2017-04-19,589,yes,no,Thomas
+Toyota Troopy Thomas,Green slip,2017-04-19,367,yes,no,Thomas
+Toyota Troopy Thomas,QBE,2017-04-19,195,yes,no,Thomas
+Toyota Troopy Thomas,NRMA,2017-04-19,210,yes,no,Thomas
+Toyota Troopy Thomas,Battery,2018-04-19,258,no,no,Thomas
+Toyota Troopy Thomas,Rego,2018-04-19,554,yes,no,Thomas
+Toyota Troopy Thomas,Inspection,2018-04-19,45,yes,no,Thomas
+Toyota Troopy Thomas,Green Slip,2018-04-19,395,yes,no,Thomas
+Toyota Troopy Thomas,QBE,2018-04-19,195,yes,no,Thomas
+Toyota Troopy Thomas,NRMA,2018-04-19,210,yes,no,Thomas
+Toyota Troopy Thomas,"Service Wyong, tyres",2018-04-19,2000,no,no,Thomas
+Toyota Troopy Thomas,"Service, Rego",2019-04-19,577.53,yes,no,Thomas
+Toyota Troopy Thomas,Green slip,2019-04-19,430,yes,no,Thomas
+Toyota Troopy Thomas,QBE,2019-04-19,200,yes,no,Thomas
+Toyota Troopy Thomas,NRMA,2019-04-19,210,yes,no,Thomas
+Toyota Troopy Thomas,Service Morisset,2019-12-14,350,no,no,Thomas
+Peugeot e208,Purchase,2019-11-13,45150,no,no,Thomas
+Peugeot e208,Third party property,2019-11-15,263,yes,no,Thomas
+Peugeot e208,Green Slip,2019-11-15,324,yes,no,Thomas
+Peugeot e208,Rego and number plate,2019-11-16,544,yes,no,Thomas
+Toyota Troopy Thomas,Slip,2020-04-19,46,yes,no,Thomas
+Toyota Troopy Thomas,Green slip,2020-04-19,446,yes,no,Thomas
+Toyota Troopy Thomas,Rego,2020-04-19,560,yes,no,Thomas
+Toyota Troopy Thomas,NRMA (changed to basic),2020-04-19,120,yes,no,Thomas
+Peugeot e208,Service,2020-03-23,360,yes,no,Thomas
+Peugeot e208,Rego,2020-11-09,438,yes,no,Thomas
+Peugeot e208,Green Slip,2020-11-09,321,yes,no,Thomas
+Peugeot e208,3rd party,2020-11-09,235,yes,no,Thomas
+Toyota Troopy Thomas,Slip,2021-04-19,373,yes,no,Thomas
+Toyota Troopy Thomas,Green slip,2021-04-19,451,yes,no,Thomas
+Toyota Troopy Thomas,Rego,2021-04-19,649,yes,no,Thomas
+Toyota RAV4,Purchase,2021-06-30,50000,no,no,Thomas
+Toyota RAV4,NRMA,2021-07-09,,no,no,Tara
+Toyota RAV4,Insurance,2021-07-09,,no,no,Thomas
+Peugeot e208,Rego,2021-11-09,433,yes,no,Thomas
+Peugeot e208,Green Slip,2021-11-09,365,yes,no,Thomas
+Peugeot e208,3rd party,2021-11-09,267,yes,no,Thomas
+Peugeot e208,Service,2022-03-29,454,yes,no,Thomas
+BMW R12GS,Purchase,2021-11-30,29490,no,no,Thomas
+BMW R12GS,5 year service,2022-03-31,3282,yes,no,Thomas
+Toyota Troopy Thomas,NRMA (basic),2022-04-04,120,yes,no,Thomas
+Toyota Troopy Thomas,service / slip,2022-04-04,800,yes,no,Tara
+Toyota Troopy Thomas,Rego,2022-04-04,661,yes,no,Tara
+Toyota Troopy Thomas,Green slip,2022-04-04,499,yes,no,Tara
+Toyota Troopy Thomas,NRMA ( basic),2022-04-04,120,yes,no,Thomas
+Toyota RAV4,NRMA,2022-07-09,137,yes,no,Thomas
+Toyota RAV4,Insurance,2022-07-09,859.55,yes,no,Tara
+Toyota RAV4,Rego,2022-07-09,634,yes,no,Tara
+EM 2020 VPXTC0101L0000852,Sale,2022-09-26,4500,no,no,Thomas
+BMW R12GS,Green Slip,2022-10-14,744.21,yes,no,Thomas
+BMW R12GS,Rego,2022-10-14,91,yes,no,Thomas
+Peugeot e208,Green Slip,2022-11-04,386.89,yes,no,Thomas
+Peugeot e208,Rego,2022-11-05,346,yes,no,Thomas
+Peugeot e208,Pink Slip,2022-10-19,52,yes,no,Thomas
+Peugeot e208,Third Party,2022-11-09,280.39,yes,no,Thomas
