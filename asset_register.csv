@@ -1,316 +1,316 @@
-Item,Purchased,Value,Years_Depr,Category_ID,Brand,content_insurance,tax_deductible,is_hardware,Purchased_by,Sold,Sale_Price
-Backpack Jack Wolfskin,31/12/1990,500,15,BAGS,Jack Wolfskin,yes,no,yes,Thomas,,
-Ortlieb small,31/12/1990,100,15,BAGS,Ortlieb,yes,no,yes,Thomas,,
-Badminton racket,31/12/1993,100,15,TOYS,Unknown,yes,no,yes,Thomas,,
-Inline skates,31/12/1994,350,15,TOYS,K2,no,no,yes,Thomas,thrown in 2025,
-Kitchen table,31/12/1995,"1,000",30,FURN,NA,yes,no,yes,Thomas,,
-Cupboard Antique,31/12/1995,"1,000",30,FURN,NA,yes,no,yes,Thomas,,
-Kitchen cupboard,31/12/1995,500,0.00,FURN,NA,yes,no,yes,Thomas,Some time 2021,250
-Suitcase Samsonite,31/12/1996,400,15,BAGS,Samsonite,yes,no,yes,Thomas,thrown in 2025,
-Cupboard bedroom,31/12/1997,500,30,FURN,NA,yes,no,yes,Thomas,remodeled into storage,
-Bosch jigsaw,31/12/1997,100,25,TOOL,Bosch,no,no,yes,Thomas,given to tara / outback 2026,
-USM table,30/06/1999,"1,100",30,FURN,USM,yes,yes,yes,Thomas,,
-VITRA chair,30/06/1999,"2,500",30,FURN,Vitra,yes,yes,yes,Thomas,,
-Bosch sander,31/12/1999,100,25,TOOL,Bosch,no,no,yes,Thomas,given to tara / outback 2026,
-Sofa,30/06/2001,500,15,FURN,Unknown,yes,no,yes,Thomas,broken,
-Tent,31/08/2001,300,15,CAMP,Unknown,yes,no,yes,Thomas,,
-Fridge,30/06/2001,600,15,WHTG,LG,yes,no,yes,Thomas,15/01/2016,100
-Washing machine,30/06/2001,600,15,WHTG,Whirlpool,yes,no,yes,Thomas,11/08/2012,100
-BMW r100,31/10/2001,"6,500",15,VHCL,BMW,no,no,yes,Thomas,29/06/2015,"2,900"
-Wrench kit 1,28/02/2002,50,25,TOOL,Unknown,no,no,yes,Thomas,,
-Laptop Macbook 2007,31/01/2003,"2,507",7,TECH,Apple,no,yes,yes,Thomas,present kids,
-Apple Airport Extreme,25/03/2003,259,7,TECH,Apple,no,yes,yes,Thomas,broken,
-BMW x650,23/12/2003,"12,600",15,VHCL,BMW,no,no,yes,Thomas,3/02/2016,"3,200"
-Vacuum Nilfisk,31/12/2003,150,8,TECH,Nilfisk,yes,no,yes,Thomas,14/07/2013,
-Other silver helmet,31/12/2003,150,8,TOYS,Unknown,no,no,yes,Thomas,thrown in 2026,
-IMac 2008,15/01/2004,"2,950",6,TECH,Apple,no,yes,yes,Thomas,31/12/2010,300
-BMW helmet Germany,31/01/2004,750,8,TOYS,BMW,no,no,yes,Thomas,,
-BMW jacket,30/06/2004,"1,000",10,CLTH,BMW,yes,no,yes,Thomas,,
-iPhone 2 with Optus,16/07/2004,458,4,TECH,Apple,no,yes,yes,Thomas,,
-Mac OSX Leopard,28/07/2004,158,3,TECH,Apple,no,yes,yes,Thomas,superseded,
-Apple Developer 2008,13/09/2004,119,1,TECH,Apple,no,yes,no,Thomas,superseded,
-Apple Mobile Me,25/11/2004,119,1,TECH,Apple,no,no,no,Thomas,superseded,
-Bosch drill,31/12/2004,120,25,TOOL,Bosch,no,no,yes,Thomas,given to tara / outback 2026,
-Ignition Timing tester,31/12/2004,50,20,TOOL,Unknown,no,no,yes,Thomas,,
-Torque wrench,31/12/2004,50,20,TOOL,Unknown,no,no,yes,Thomas,,
-Guitar Maton,31/12/2004,"2,500",30,TOYS,Maton,yes,no,yes,Thomas,,
-Surf board,31/12/2004,250,8,TOYS,Unknown,no,no,yes,Thomas,sold (when?),100
-Snow board,31/12/2004,500,8,TOYS,Unknown,no,no,yes,Thomas,given to Timon,
-Snow board boots,31/12/2004,250,10,TOYS,Unknown,no,no,yes,Thomas,given to Timon,
-Adidas runners 2009,31/05/2005,180,4,SHOE,Adidas,yes,no,yes,Thomas,done,
-Macbook Pro 17,9/06/2005,"4,578",7,TECH,Apple,no,yes,yes,Thomas,???,"2,000"
-iPhone 3 with Optus,12/07/2005,684,4,TECH,Apple,no,yes,yes,Thomas,???,300
-"Snow Leopard, iWork 09",28/08/2005,168,1,TECH,Apple,no,no,yes,Thomas,superseded,
-Apple Developer 2009,15/09/2005,119,1,TECH,Apple,yes,no,no,Thomas,superseded,
-Apple Mobile Me 2009,24/11/2005,119,1,TECH,Apple,no,no,no,Thomas,superseded,
-Ortlieb shoulder bag,31/12/2005,190,8,BAGS,Ortlieb,yes,no,yes,Thomas,,
-IPad 1,28/06/2006,629,7,TECH,Apple,no,yes,yes,Thomas,present kids,
-IPhone 4 with Optus,12/08/2006,636,4,TECH,Apple,no,yes,yes,Thomas,???,200
-Apple Developer 2010,14/08/2006,119,1,TECH,Apple,no,yes,no,Thomas,superseded,
-Apple Mobile Me 2010,27/12/2006,119,1,TECH,Apple,no,yes,no,Thomas,superseded,
-BMW pants,30/11/2006,500,10,SHOE,BMW,yes,no,yes,Thomas,,
-Shun Knife small,30/11/2006,100,15,KTCH,Shun,yes,no,yes,Thomas,,
-Crumpler bag,31/12/2006,180,8,BAGS,Crumpler,yes,no,yes,Thomas,,
-Lowa hiking boots,31/12/2006,300,5,SHOE,Lowa,yes,no,yes,Thomas,done,
-Motor cycle rain jacket / pants,31/12/2006,200,10,CLTH,Rjays,no,no,yes,Thomas,,
-"Earphones, dock connector",14/03/2007,78,3,TECH,Apple,no,no,yes,Thomas,done,
-Ortlieb medium,31/03/2007,120,15,BAGS,Ortlieb,yes,no,yes,Thomas,,
-ASIC runners white,31/05/2007,160,4,SHOE,ASIC,yes,no,yes,Thomas,done,
-IPad 2,14/08/2007,918,4,TECH,Apple,no,yes,yes,Thomas,???,450
-Apple Developer 2011,14/08/2007,119,1,TECH,Apple,no,yes,no,Thomas,,
-BMW boots,31/08/2007,400,10,CLTH,BMW,yes,no,yes,Thomas,,
-Apple Bluetooth Keyboard,31/08/2007,75,7,TECH,Apple,no,yes,yes,Thomas,sold,40
-Apple Bluetooth Trackpad,14/09/2007,75,7,TECH,Apple,no,yes,yes,Thomas,sold ,40
-Apple OS Lion,16/10/2007,32,1,TECH,Apple,no,yes,yes,Thomas,superseded,
-Suit,31/10/2007,500,10,CLTH,Country Road,yes,no,yes,Thomas,,
-Volleyball,30/11/2007,60,8,TOYS,Mikasa,yes,no,yes,Thomas,,
-Bose,31/12/2007,399,8,TECH,Bose,yes,no,yes,Thomas,,
-IPad 3,14/03/2008,899,4,TECH,Apple,no,yes,yes,Thomas,present dad,
-ISO mats,29/02/2008,100,8,CAMP,Unknown,yes,no,yes,Thomas,,
-Bivouac sac,31/03/2008,300,10,CAMP,Unknown,yes,no,yes,Thomas,,
-Rain jacket / pants,30/04/2008,100,10,CLTH,Rjays,no,no,yes,Thomas,,
-Bolle,31/05/2008,60,5,LIFE,Bolle,yes,no,yes,Thomas,,
-Toyota Troopy Thomas,30/06/2008,"30,250",20,VHCL,Toyota,no,no,yes,Thomas,,
-ASIC grey runners,30/06/2008,140,4,SHOE,ASIC,yes,no,yes,Thomas,done,
-Wrench kit 2,30/06/2008,50,25,TOOL,Unknown,no,no,yes,Thomas,,
-Apple Developer 2012,21/08/2008,119,1,TECH,Apple,yes,yes,no,Thomas,superseded,
-IPhone 5,21/09/2008,899,4,TECH,Apple,no,yes,yes,Thomas,???,200
-Snorkel,31/12/2008,100,10,TOYS,Unknown,no,no,yes,Thomas,,
-MacBook Pro 15 Retina 2013,28/02/2009,"3,500",7,TECH,Apple,no,yes,yes,Thomas,when?,"1,800"
-Winch,31/03/2009,200,8,TOOL,Unknown,no,no,yes,Thomas,,
-Compressor,31/03/2009,100,8,TOOL,Unknown,no,no,yes,Thomas,,
-Ortlieb large,30/04/2009,140,15,BAGS,Ortlieb,yes,no,yes,Thomas,,
-Apple Developer 2013,21/08/2009,99,1,TECH,Apple,no,yes,no,Thomas,superseded,
-iPad Mini 2013,31/10/2009,750,4,TECH,Apple,no,yes,yes,Thomas,,
-Fox helmet 2013,30/11/2009,160,5,TOYS,Fox,no,no,yes,Thomas,,
-Canon EOS 70d,31/12/2009,"2,000",10,TOYS,Canon,yes,no,yes,Thomas,3/03/2014,
-Vitamix,30/11/2010,"1,200",8,WHTG,Vitamix,yes,no,yes,Thomas,29/06/2013,600
-Watch Suunto,31/10/2009,450,5,TECH,Suunto,no,no,yes,Thomas,sold ,50
-Toaster,30/11/2009,160,5,WHTG,DeLonghi,yes,no,yes,Thomas,,
-Shun Knife Sashimi,30/11/2009,160,15,KTCH,Shun,yes,no,yes,Thomas,,
-Modem,28/02/2010,200,5,TECH,Unknown,no,no,yes,Thomas,,
-Mountain bike,31/10/2010,"1,200",10,TOYS,Avanti,no,no,yes,Thomas,,
-Mattress,30/06/2010,"1,000",5,FURN,Sealy,yes,no,yes,Thomas,,
-Tatonka,31/01/2010,250,8,BAGS,Tatonka,yes,no,yes,Thomas,31/03/2012,
-Deuter backpack,31/01/2010,160,8,BAGS,Deuter,yes,no,yes,Thomas,,
-Bosch grinder,31/12/2009,100,0.00,TOOL,Bosch,no,no,yes,Thomas,sold,
-Bosch circular saw,28/02/2010,150,0.00,TOOL,Bosch,no,no,yes,Thomas,13/07/2018,50
-Maui jim Wrap around,28/02/2010,280,5,LIFE,Maui Jim,yes,no,yes,Thomas,,
-Climbing belt,31/03/2010,150,15,TOYS,Petzl,yes,no,yes,Thomas,,
-Apple Developer 2014,4/09/2010,99,1,TECH,Apple,no,yes,no,Thomas,,
-IPhone 6,19/09/2010,999,4,TECH,Apple,no,yes,yes,Thomas,???,250
-Birkenstock,30/11/2010,160,5,SHOE,Birkenstock,yes,no,yes,Thomas,done,
-Lowa shoes 2014,31/01/2010,180,5,SHOE,Lowa,yes,no,yes,Thomas,done,
-UGG boots,31/05/2010,100,4,SHOE,UGG,yes,no,yes,Thomas,done,
-Kayak single,31/05/2011,250,10,TOYS,Unknown,no,no,yes,Thomas,sold,100
-Lowe backpack,3/01/2011,76,8,BAGS,Lowe,yes,no,yes,Thomas,,
-Bose soundtouch,25/12/2010,439,8,TECH,Bose,no,no,yes,Thomas,broken,
-Leatherman,31/12/2010,300,8,TOOL,Leatherman,yes,no,yes,Thomas,lost at CQU / Airport,
-Fox helmet 2015,31/12/2010,350,5,TOYS,Fox,no,no,yes,Thomas,,
-EM5.7,9/01/2011,"9,200",8,TOYS,EM,no,no,yes,Thomas,sold in 2018,
-Apple Macbook Pro 13 Retina,4/05/2011,"3,499",7,TECH,Apple,no,yes,yes,Thomas,14/11/2012,"2,400"
-Bose Headphones,21/05/2011,250,5,TECH,Bose,yes,no,yes,Thomas,,
-Mac mini,31/05/2011,"1,369",8,TECH,Apple,no,yes,yes,Thomas,,
-Panasonic TV,31/05/2011,800,5,TECH,Panasonic,yes,no,yes,Thomas,31/07/2013,
-Apple Watch Series 0,29/06/2011,580,4,TECH,Apple,no,yes,yes,Thomas,29/05/2013,
-Apple Charger,7/07/2011,119,8,TECH,Apple,no,yes,yes,Thomas,,
-Swag,3/09/2011,450,8,CAMP,Unknown,yes,no,yes,Thomas,,
-iPhone 6s,9/10/2011,"1,229",4,TECH,Apple,no,yes,yes,Thomas,,
-NEANN kit,9/11/2011,500,15,TOYS,Neann,yes,no,yes,Thomas,,
-Apple Developer 2015,14/10/2011,149,,,,,,no,,,
-Xbox one,26/11/2011,319,5,TECH,Microsoft,yes,no,yes,Thomas,7/12/2015,
-NEANN drug kit,29/11/2011,200,5,TOYS,Neann,yes,no,yes,Thomas,,
-Wulf Helmet,6/01/2012,220,5,TOYS,Wulf,no,no,yes,Thomas,,
-Dyson V8,6/10/2012,550,5,TECH,Dyson,yes,no,yes,Thomas,,
-Apple Watch Series 0 Tara,20/01/2012,499,4,TECH,Apple,no,yes,yes,Thomas,broken,
-Apple iPadPro 12,27/04/2012,"2,100",4,TECH,Apple,no,yes,yes,Thomas,sold to Tanja Kiest,800
-Apple Macbook 12,1/05/2012,"2,500",7,TECH,Apple,no,yes,yes,Thomas,07/05/2017 to Tara!,"1,001"
-Le Creuset skillet 20cm,16/06/2012,132,15,KTCH,Le Creuset,yes,no,yes,Thomas,,
-Apple USB-C Cable,6/09/2012,55,5,TECH,Apple,no,yes,yes,Thomas,,
-Apple Developer 2016,10/10/2012,149,1,TECH,Apple,no,yes,no,Thomas,superseded,
-Apple HDMI Adaptor,23/10/2012,129,7,TECH,Apple,no,yes,yes,Thomas,sold to tara with laptop,49
-Apple USB-C to USB-A adaptor,9/11/2012,12,7,TECH,Apple,no,yes,yes,Thomas,,
-Apple Watch Series 2,14/02/2013,880,4,TECH,Apple,no,yes,yes,Thomas,Given to leon,
-Birkenstock clog 2017,31/12/2012,140,5,SHOE,Birkenstock,yes,no,yes,Thomas,done,
-Fox mountain bike helmet,31/01/2013,180,8,TOYS,Fox,yes,no,yes,Thomas,,
-HUAWEI modem,31/03/2013,192,3,TECH,Huawei,no,no,yes,Thomas,,
-Apple HDMI Adaptor 2017,31/03/2013,75,7,TECH,Apple,no,yes,yes,Thomas,,
-MacBook Pro Touch 13,25/04/2013,"3,688",7,TECH,Apple,no,yes,yes,Thomas,20/12/2013,"2,000"
-Apple Macbook Warranty,30/04/2013,339,1,TECH,Apple,no,yes,yes,Thomas,superseded,
-Thermomix,3/06/2013,"1,560",10,KTCH,Vorwerk,yes,no,yes,Thomas,,
-Cycle trainer,27/05/2013,99,5,TOYS,Unknown,no,no,yes,Thomas,done,
-Apple Cable,27/06/2013,35,7,TECH,Apple,no,yes,yes,Thomas,,
-Shipping Container,14/07/2013,"3,350",20,HOUS,Tiger Container,no,no,yes,Thomas,,
-Maui Jim eh brah,9/08/2013,335,8,LIFE,Maui Jim,yes,no,yes,Thomas,,
-"Dell Monitor 34""",31/08/2013,"1,091",5,TECH,Dell,no,yes,yes,Thomas,14/11/2014,700
-Macbook Pro Touch 15,31/08/2013,"3,689",7,TECH,Apple,no,yes,yes,Thomas,19/10/2014,"2,500"
-Lowa Renegade Hiking Boots,31/08/2013,300,6,SHOE,Lowa,yes,no,yes,Thomas,done,
-Apple Developer 2017,14/10/2013,149,1,TECH,Apple,no,yes,no,Thomas,superseded,
-Maui Jim Wild Coast,31/10/2013,300,8,LIFE,Maui Jim,yes,no,yes,Thomas,,
-Apple Earpods Pro I,3/11/2013,229,5,TECH,Apple,no,no,yes,Thomas,,
-Sennheiser headphones,25/11/2013,399,6,TECH,Sennheiser,no,no,yes,Thomas,,
-Canon Lens,22/12/2013,950,10,TECH,Canon,yes,no,yes,Thomas,sold in ?? to Japanese guy,
-EM 2017,11/12/2013,"12,700",10,TOYS,EM,no,no,yes,Thomas,sold in 2020 to friend of richard k,
-IPhoneX,18/12/2013,"1,829",4,TECH,Apple,no,yes,yes,Thomas,done,
-Toolbox,10/01/2014,285,15,TOOL,Unknown,no,no,yes,Thomas,,
-Hebo Trials boots,29/04/2014,360,8,CLTH,Hebo,no,no,yes,Thomas,,
-Cupboard steel,29/04/2014,290,15,FURN,Unknown,no,no,yes,Thomas,,
-iPad 2018,24/06/2014,599,4,TECH,Apple,no,yes,yes,Thomas,10/08/2018 to Leon,0
-Crumpler backpack,14/06/2014,249,8,BAGS,Crumpler,yes,no,yes,Thomas,,
-Apple Charger 2018,14/06/2014,98,7,TECH,Apple,no,yes,yes,Thomas,,
-Watch Series 3 Tara,29/06/2014,459,4,TECH,Apple,yes,yes,yes,Thomas,given to Tara ,0
-Lowa shoes 2018,29/07/2014,187,4,SHOE,Lowa,yes,no,yes,Thomas,done,
-Adidas runners 2018,29/07/2014,160,4,SHOE,Adidas,yes,no,yes,Thomas,done,
-Birkenstock Arizona,29/07/2014,121,4,SHOE,Birkenstock,yes,no,yes,Thomas,left at juergens in 2023,
-Ortlieb Roller,9/08/2014,434,8,BAGS,Ortlieb,yes,no,yes,Thomas,,
-iPhone XS Max,24/08/2014,"2,049",4,TECH,Apple,no,yes,yes,Thomas,sold to Bernd in ??,750
-Phillips Iron,7/09/2014,429,8,WHTG,Phillips,yes,no,yes,Thomas,,
-MacBook Pro Touch 15 2018,25/09/2014,"3,699",5,TECH,Apple,no,yes,yes,Thomas,scam loss,0
-Watch Series 4,13/10/2014,799,4,TECH,Apple,no,yes,yes,Thomas,thrown in 2024,
-Apple Developer 2018,14/10/2014,149,1,TECH,Apple,no,yes,no,Thomas,superseded,
-IPad Pro,7/11/2014,"2,139",4,TECH,Apple,no,yes,yes,Thomas,given to Leon by Tara,0
-DJI Mavic Pro 2,14/11/2014,"2,499",6,TECH,DJI,no,no,yes,Thomas,,
-Indigenous art Sandra Ken,30/11/2014,800,20,FURN,Art,yes,no,yes,Thomas,Sold to brett,
-Indigenous art Serena Ken,30/11/2014,800,20,FURN,Art,yes,no,yes,Thomas,given to Timon and Phyllis,
-Samsung T5 1 TB SSD,30/11/2014,260,3,TECH,Samsung,no,yes,yes,Thomas,,
-50% of Troopy 2013,30/11/2014,"16,125",10,VHCL,Toyota,no,no,yes,Thomas,sold in 2020?,"16,125"
-"Dell Monitor 38""",14/12/2014,"1,300",5,TECH,Dell,no,yes,yes,Thomas,28/01/2018,700
-BMW helmet 2019,19/02/2015,480,8,TOYS,BMW,no,no,yes,Thomas,,
-Salomon Cross 5 Trail runners,2/03/2015,140,3,SHOE,Salomon,yes,no,yes,Thomas,,
-NetGear Modem ADSL,2/03/2015,240,3,TECH,NetGear,no,no,yes,Thomas,,
-Samsung T5 2TB 2019,4/05/2015,300,5,TECH,Samsung,no,yes,yes,Thomas,,
-Sheridan Linen,14/05/2015,180,5,HOUS,Sheridan,yes,no,yes,Thomas,,
-Apple Keyboard and touchpad,5/06/2015,328,5,TECH,Apple,no,yes,yes,Thomas,,
-IPad 2018 for Timon,29/06/2015,599,4,TECH,Apple,no,yes,yes,Thomas,given to Timon,0
-Macbook Air Timon,17/08/2015,"1,529",7,TECH,Apple,no,no,yes,Thomas,given to Timon,0
-IPhone 7 from John for Leon,9/09/2015,200,4,TECH,Apple,no,yes,yes,Thomas,"given to Leon, replaced by leon in 2024",0
-EM 2020 VPXTC0101L0000852,22/09/2015,"14,605",10,TECH,EM,no,no,yes,Thomas,"Terrence Walker, 2026-09-27","4,500"
-Le Creuset skillet 26cm,31/07/2015,300,15,KTCH,Le Creuset,yes,no,yes,Thomas,,
-Birkenstock clog 2019,11/08/2015,167,6,SHOE,Birkenstock,yes,no,yes,Thomas,done,
-Apple HDMI Adaptor 2019,9/09/2015,99,7,TECH,Apple,no,yes,yes,Thomas,present leon?,
-iPhone 11 Pro,19/09/2015,"1,999",4,TECH,Apple,no,yes,yes,Thomas,???,"1,000"
-Phone 11 Cover,19/09/2015,79,4,TECH,Apple,no,yes,yes,Thomas,sold with phone,
-Apple developer 2019,14/10/2015,149,1,TECH,Apple,no,yes,no,Thomas,superseded,
-Apple Tv,28/11/2015,279,8,TECH,Apple,no,no,yes,Thomas,,
-Sennheiser Momentum,13/12/2015,369,5,TECH,Sennheiser,no,no,yes,Thomas,Given to Linda,
-Le Creuset Skillet 24cm,31/01/2016,180,15,KTCH,Le Creuset,yes,no,yes,Thomas,,
-Kubota Tractor,31/03/2016,"29,900",15,HOUS,Kubota,no,no,yes,Thomas,,
-Cel Fi booster and antenna,17/04/2016,"1,039",5,TECH,CelFi,no,no,yes,Thomas,,
-"Milwaukee Drill, Driver",20/06/2016,659,8,TOOL,Milwaukee,no,no,yes,Thomas,"drill sold Aug 25, $230",230
-Milwaukee Chainsaw,20/06/2016,569,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Milwaukee 12 Ah Battery,20/06/2016,261,5,TOOL,Milwaukee,no,yes,yes,Thomas,broken,
-"Milwaukee Grinder, Grass Trimmer",3/07/2016,349,8,TOOL,Milwaukee,no,yes,yes,Thomas,stolen,
-"Milwaukee Power Head/Trimmer, stapler, torch",3/07/2016,583,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Milwaukee Torch,3/07/2016,72,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Milwaukee Stapler,3/07/2016,198,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Birkenstock Clog 2020,29/07/2016,160,5,SHOE,Birkenstock,yes,no,yes,Thomas,,
-Bosch Dryer,19/07/2016,"1,600",8,WHTG,Bosch,yes,no,yes,Thomas,,
-Netgear Modem 4G,30/07/2016,205,5,TECH,Netgear,no,no,yes,Thomas,,
-Milwaukee Cicular Saw,9/08/2016,450,5,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Macbook Pro Touch 16,12/08/2016,"3,959",7,TECH,Apple,no,yes,yes,Thomas,given to Tara ,
-Leica M10-R,29/09/2016,"13,500",15,TOYS,Leica,yes,no,yes,Thomas,,
-Leica Summicron 35,29/09/2016,"4,700",20,TOYS,Leica,yes,no,yes,Thomas,,
-Apple developer 2020,14/10/2016,149,1,TECH,Apple,no,yes,no,Thomas,superseded,
-Apple iPhone 12 Pro,15/10/2016,"1,869",4,TECH,Apple,no,yes,yes,Thomas,20/07/2023 gift to Bernd for stay,0
-iPhone Cover 2020,17/11/2016,89,4,TECH,Apple,no,yes,yes,Thomas,sold with phone,
-Kayak double,17/11/2016,"1,100",15,TOYS,Scorpio Kayak,no,no,yes,Thomas,,
-EM 2021 VPXTC0000M0000307,22/11/2016,"16,853",10,TOYS,EM,no,no,yes,Thomas,,
-LG Microwave,29/11/2016,229,5,WHTG,LG,yes,no,yes,Thomas,,
-Leica APO Summicron 90mm,14/12/2016,"3,650",15,TOYS,Leica,yes,no,yes,Thomas,,
-Kubota Mower Attachment,12/03/2017,"2,200",15,HOUS,Kubota,no,no,yes,Thomas,30/09/2018,
-Florsheim Shoes,24/03/2017,200,7,SHOE,Florsheim,yes,no,yes,Thomas,,
-Emu boots,9/03/2017,180,10,SHOE,Emu,yes,no,yes,Thomas,,
-Miele Vaccum,26/03/2017,599,15,WHTG,Miele,yes,no,yes,Thomas,Broken 26/12/23,
-Desky,19/04/2017,750,10,FURN,Desky,yes,yes,yes,Thomas,,
-Apple Keybaard and Mouse black,20/04/2017,368,7,TECH,Apple,no,yes,yes,Thomas,,
-IPad Pro M1 12.9 inch,20/05/2017,"2,600",4,TECH,Apple,no,yes,yes,Thomas,Given to Tara 24-11,
-Evolve skateboard,9/05/2017,"2,000",8,TOYS,Evolve,no,no,yes,Thomas,Sold for $1100,"1,100"
-Apple Earpods Pro II Tara,29/06/2017,300,5,TECH,Apple,no,yes,yes,Thomas,,
-As26 lawn mower,30/06/2017,"4,220",10,HOUS,AS,no,no,yes,Thomas,given to Alex 9/26,0
-Milwaukeee Grinder 2021,15/08/2017,398,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Milwaukee Multi Tool,15/08/2017,306,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Milwaukee 18V 6Ah Battery 2021 II,15/08/2017,178,5,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Macbook air Leon ,31/08/2017,"1,833",7,TECH,Apple,no,no,yes,Thomas,given to Leon,0
-Milwauke 6Ah battery,19/09/2017,178,5,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Milwaukee 12V driver / 6Ah bat,19/09/2017,377,8,TOOL,Milwaukee,no,yes,yes,Thomas,sold,200
-Milwaukee hatchet,21/09/2017,259,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Milwaukee rotary hammer,21/09/2017,528,8,TOOL,Milwaukee,no,yes,yes,Thomas,sold ,150
-Milwaukee 12V driver duplicate,21/09/2017,0,8,TOOL,Milwaukee,no,yes,yes,Thomas,sold ,150
-Milwaukee hatchet duplicate,21/09/2017,0,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Icebreaker Jackets,14/09/2017,600,8,CLTH,Icebreaker,yes,no,yes,Thomas,,
-Leica ViewFinder,9/10/2017,800,8,TOYS,Leica,yes,no,yes,Thomas,,
-Milwaukee Sander,14/10/2017,209,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Milwaukee Vaccum,14/10/2017,268,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Milwaukee JigSaw,14/10/2017,367,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Milwaukee Laminate Trimmer,14/10/2017,346,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Apple Developer 2021,14/10/2017,149,1,TECH,Apple,no,yes,no,Thomas,superseded,
-"Bosch Induction cooktop, oven, range hood",31/10/2017,"3,800",10,WHTG,Bosch,yes,no,yes,Thomas,,
-Samsung Fridge,16/11/2017,"1,100",10,WHTG,Samsung,yes,no,yes,Thomas,,
-Le Creuset Shallow Casserole 30cm,3/12/2017,480,15,KTCH,Le Creuset,yes,no,yes,Thomas,,
-Leica Summicron M50 1.4,12/12/2017,"6,700",15,TOYS,Leica,yes,no,yes,Thomas,,
-MacBook Pro M1 14 inch 22,6/01/2018,"3,374",7,TECH,Apple,no,yes,yes,Thomas,12/06/2023 to Timon,"1,166"
-Apple Studio Monitor,9/06/2018,"2,499",7,TECH,Apple,no,yes,yes,Thomas,,
-Starlink Kit,23/08/2017,983,6,TECH,SpaceX,no,yes,yes,Thomas,,
-"Apple Phone Cover, wireless charger",12/09/2018,139,2,TECH,Apple,no,yes,yes,Thomas,,
-iPhone 14 Pro,9/10/2018,"1,899",4,TECH,Apple,no,yes,yes,Thomas,???,700
-Apple developer 2022,14/10/2018,149,1,TECH,Apple,no,yes,no,Thomas,superseded,
-Milwaukee Planer,16/10/2018,279,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Sonos Arc,11/11/2018,"1,274",10,TECH,Sonos,yes,no,yes,Thomas,,
-Sonos Subwoofer,25/11/2018,900,10,TECH,Sonos,yes,no,yes,Thomas,,
-Samsung Neo OELD TV,14/01/2019,"2,174",10,TECH,Samsung,yes,no,yes,Thomas,,
-LOWA boots,30/12/2019,300,8,SHOE,Lowa,yes,no,yes,Thomas,,
-Milwaukee 18V 6Ah Battery 2023,3/04/2019,148,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Solar Install $7k + $18k,23/04/2019,"25,000",15,HOUS,Fronius,no,no,yes,Thomas,,
-Jardan sofa,2/05/2019,"9,984",10,FURN,Jardan,yes,no,yes,Thomas,,
-Macbook Pro M2 14inch 2023,11/06/2019,"3,599",7,TECH,Apple,no,yes,yes,Thomas,,
-FESTOOL plunge saw,14/06/2019,"1,599",10,TOOL,Festool,no,yes,yes,Thomas,,
-Sarah Ellison sofa,29/06/2019,"1,000",8,FURN,Sarah Ellison,yes,no,yes,Thomas,,
-Milwaukee Trimmer Plunge Base,16/09/2019,123,8,TOOL,Milwaukee,no,yes,yes,Thomas,,
-FESTOOL domino,26/09/2019,"1,945",10,TOOL,Festool,no,yes,yes,Thomas,,
-Sarah Ellison chair,3/10/2019,"1,300",8,FURN,Sarah Ellison,yes,no,yes,Thomas,,
-Phillips shaver,3/10/2019,230,8,LIFE,Phillips,yes,no,yes,Thomas,,
-Festool Rail joiner set,2/09/2019,94,8,TOOL,Festool,no,no,yes,Thomas,,
-Festool systainers 1,4/10/2019,277,10,TOOL,Festool,no,yes,yes,Thomas,,
-Festool systainers 2,4/10/2019,380,10,TOOL,Festool,no,yes,yes,Thomas,,
-Apple Developer 2023,14/10/2019,149,1,TECH,Apple,no,yes,no,Thomas,superseded,
-Peugeot e208,2/11/2019,"45,500",8,VHCL,Peugeot,no,no,yes,Thomas,,
-Festool systainers 3,20/10/2019,658,10,TOOL,Festool,no,yes,yes,Thomas,,
-Wattpilot,27/11/2019,"1,800",8,VHCL,Fronius,no,no,yes,Thomas,,
-SAMSUNG T7,22/12/2019,300,8,TECH,Samsung,no,yes,yes,Thomas,,
-Apple Watch SE Tara,25/12/2019,346,5,TECH,Apple,yes,yes,yes,Thomas,"given to Tara , now broken",0
-Festool vaccum,25/12/2019,"1,065",10,TOOL,Festool,no,yes,yes,Thomas,,
-Festool Sander,2/01/2019,"1,175",10,TOOL,Festool,no,yes,yes,Thomas,,
-Winnie bar stools,1/01/2020,"1,070",15,FURN,Huset,yes,no,yes,Thomas,,
-Festool CXS Drill,11/01/2020,670,10,TOOL,Festool,no,no,yes,Thomas,,
-Le Creuset Dutch Oven 24cm,31/05/2020,300,15,KTCH,Le Creuset,yes,no,yes,Thomas,,
-iPad Pro 13 M4 2024,14/08/2020,"3,400",4,TECH,Apple,no,yes,yes,Thomas,,
-Apple Earpods Pro II,15/08/2020,300,4,TECH,Apple,no,yes,yes,Thomas,,
-Milwaukee Arborist Chain Saw incl 2 8Ah Batteries,20/09/2020,"1,027",6,TECH,Milwaukee,no,yes,yes,Thomas,,
-Apple Watch Ultra,25/09/2020,"1,399",5,TECH,Apple,no,no,yes,Thomas,,
-Milwaukee Blower,6/11/2020,547,6,TOOL,Milwaukee,no,yes,yes,Thomas,,
-Apple developer 2024,14/10/2020,149,1,TECH,Apple,no,yes,no,Thomas,superseded,
-IPhone 16 Pro,14/10/2020,"2,000",4,TECH,Apple,no,yes,yes,Thomas,sold to Bernd 2025,700
-Apple Vision Pro,4/12/2020,"6,168",7,TECH,Apple,no,yes,yes,Thomas,sold to Mupo / Facebook. 2026-10-16,"2,500"
-Festool Impact Driver and Drill,9/06/2021,998,8,TOOL,Festool,no,yes,yes,Thomas,,
-Toyota RAV4,7/07/2021,"50,000",10,VHCL,Toyota,no,no,yes,Thomas,,
-Salomon Cross 6 Trail Runners,30/09/2021,160,5,SHOE,Salomon,yes,no,yes,Thomas,,
-Apple developer 2025,14/10/2021,149,1,TECH,Apple,no,yes,no,Thomas,superseded,
-Le Creuset Dutch Oven 20cm,3/12/2021,300,15,KTCH,Le Creuset,yes,no,yes,Thomas,,
-iPhone 17 Pro,7/12/2021,"1,999",4,TECH,Apple,no,yes,yes,Thomas,,
-BMW R12GS,30/11/2021,"29,490",10,VHCL,BMW,no,no,yes,Thomas,,
-Milwaukee Inflator,26/12/2021,275,8,TOOL,Milwaukee,no,no,yes,Thomas,,
-BMW Motorbike boots,28/12/2021,442,10,TOYS,BMW,yes,no,yes,Thomas,,
-BMW Helmet for Tara,2/04/2022,765,10,TOYS,BMW,yes,no,yes,Thomas,,
-IPhone 18 Tara,14/05/2022,"1,099",7,TECH,Apple,no,yes,yes,Tara,,
-Apple Macbook Pro 16 M5,12/06/2022,"4,299",7,TECH,Apple,no,yes,yes,Thomas,,
-Milwaukee Lawn Mower,3/09/2022,"1,449",8,HOUS,Milwaukee,yes,no,yes,Tara,,
-Milwaukee Power Head 2,3/09/2022,0,8,TOOL,Milwaukee,yes,no,yes,Tara,,
-Milwaukee Forge Batteries 2*8Ah,3/09/2022,0,8,TOOL,Milwaukee,yes,no,yes,Tara,,
-Milwaukee Super Charger,3/09/2022,0,8,TOOL,Milwaukee,yes,no,yes,Tara,,
-Salomon Cross 6 Wide 2026,19/09/2022,215,4,SHOE,Salomon,yes,no,no,Thomas,,
-Water Tank Big House,17/10/2022,"3,000",20,HOUS,Basix Tanks,no,no,yes,Tara,,
-GHD Hair Straigthener,9/11/2022,600,8,WHTG,GHD,yes,no,yes,Tara,,
-Dyson V10,25/12/2019,"1,000",8,WHTG,Dyson,yes,no,yes,Tara,,
-Dyson Hair Dryer,26/11/2021,600,8,WHTG,Dyson,yes,no,yes,Tara,,
-Phillips Air Fryer,30/06/2022,300,8,WHTG,Phillips,yes,no,yes,Tara,,
-Robovac,30/06/2019,"1,200",8,WHTG,Robovac,yes,no,yes,Tara,,
+Item,Purchased,Value,Years_Depr,Category_ID,Brand,content_insurance,tax_deductible,is_hardware,Purchased_by,Sold,Sale_Price,Check_duplicates
+Backpack Jack Wolfskin,1995-01-01,500,15,BAGS,Jack Wolfskin,yes,no,yes,Thomas,,,1
+Ortlieb small,1995-01-01,100,15,BAGS,Ortlieb,yes,no,yes,Thomas,,,1
+Badminton racket,1998-01-01,100,15,TOYS,Unknown,yes,no,yes,Thomas,,,1
+Inline skates,1999-01-01,350,15,TOYS,K2,no,no,yes,Thomas,thrown in 2025,,1
+Kitchen table,2000-01-01,1000,30,FURN,NA,yes,no,yes,Thomas,,,1
+Cupboard Antique,2000-01-01,1000,30,FURN,NA,yes,no,yes,Thomas,,,1
+Kitchen cupboard,2000-01-01,500,0,FURN,NA,yes,no,yes,Thomas,Some time 2021,250,1
+Suitcase Samsonite,2001-01-01,400,15,BAGS,Samsonite,yes,no,yes,Thomas,thrown in 2025,,1
+Cupboard bedroom,2002-01-01,500,30,FURN,NA,yes,no,yes,Thomas,remodeled into storage,,1
+Bosch jigsaw,2002-01-01,100,25,TOOL,Bosch,no,no,yes,Thomas,given to tara / outback 2026,,1
+USM table,2003-07-01,1100,30,FURN,USM,yes,yes,yes,Thomas,,,1
+VITRA chair,2003-07-01,2500,30,FURN,Vitra,yes,yes,yes,Thomas,,,1
+Bosch sander,2004-01-01,100,25,TOOL,Bosch,no,no,yes,Thomas,given to tara / outback 2026,,1
+Sofa,2005-07-01,500,15,FURN,Unknown,yes,no,yes,Thomas,broken,,1
+Tent,2005-09-01,300,15,CAMP,Unknown,yes,no,yes,Thomas,,,1
+Fridge,2005-07-01,600,15,WHTG,LG,yes,no,yes,Thomas,16/01/2020,100,1
+Washing machine,2005-07-01,600,15,WHTG,Whirlpool,yes,no,yes,Thomas,12/08/2016,100,1
+BMW r100,2005-11-01,6500,15,VHCL,BMW,no,no,yes,Thomas,30/06/2019,2900,1
+Wrench kit 1,2006-03-01,50,25,TOOL,Unknown,no,no,yes,Thomas,,,1
+Laptop Macbook 2007,2007-02-01,2507,7,TECH,Apple,no,yes,yes,Thomas,present kids,,1
+Apple Airport Extreme,2007-03-26,259,7,TECH,Apple,no,yes,yes,Thomas,broken,,1
+BMW x650,2007-12-24,12600,15,VHCL,BMW,no,no,yes,Thomas,04/02/2020,3200,1
+Vacuum Nilfisk,2008-01-01,150,8,TECH,Nilfisk,yes,no,yes,Thomas,15/07/2017,,1
+Other silver helmet,2008-01-01,150,8,TOYS,Unknown,no,no,yes,Thomas,thrown in 2026,,1
+IMac 2008,2008-01-16,2950,6,TECH,Apple,no,yes,yes,Thomas,01/01/2015,300,1
+BMW helmet Germany,2008-02-01,750,8,TOYS,BMW,no,no,yes,Thomas,,,1
+BMW jacket,2008-07-01,1000,10,CLTH,BMW,yes,no,yes,Thomas,,,1
+iPhone 2 with Optus,2008-07-17,458,4,TECH,Apple,no,yes,yes,Thomas,,,1
+Mac OSX Leopard,2008-07-29,158,3,TECH,Apple,no,yes,yes,Thomas,superseded,,1
+Apple Developer 2008,2008-09-14,119,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+Apple Mobile Me,2008-11-26,119,1,TECH,Apple,no,no,no,Thomas,superseded,,1
+Bosch drill,2009-01-01,120,25,TOOL,Bosch,no,no,yes,Thomas,given to tara / outback 2026,,1
+Ignition Timing tester,2009-01-01,50,20,TOOL,Unknown,no,no,yes,Thomas,,,1
+Torque wrench,2009-01-01,50,20,TOOL,Unknown,no,no,yes,Thomas,,,1
+Guitar Maton,2009-01-01,2500,30,TOYS,Maton,yes,no,yes,Thomas,,,1
+Surf board,2009-01-01,250,8,TOYS,Unknown,no,no,yes,Thomas,sold (when?),100,1
+Snow board,2009-01-01,500,8,TOYS,Unknown,no,no,yes,Thomas,given to Timon,,1
+Snow board boots,2009-01-01,250,10,TOYS,Unknown,no,no,yes,Thomas,given to Timon,,1
+Adidas runners 2009,2009-06-01,180,4,SHOE,Adidas,yes,no,yes,Thomas,done,,1
+Macbook Pro 17,2009-06-10,4578,7,TECH,Apple,no,yes,yes,Thomas,???,2000,1
+iPhone 3 with Optus,2009-07-13,684,4,TECH,Apple,no,yes,yes,Thomas,???,300,1
+"Snow Leopard, iWork 09",2009-08-29,168,1,TECH,Apple,no,no,yes,Thomas,superseded,,1
+Apple Developer 2009,2009-09-16,119,1,TECH,Apple,yes,no,no,Thomas,superseded,,1
+Apple Mobile Me 2009,2009-11-25,119,1,TECH,Apple,no,no,no,Thomas,superseded,,1
+Ortlieb shoulder bag,2010-01-01,190,8,BAGS,Ortlieb,yes,no,yes,Thomas,,,1
+IPad 1,2010-06-29,629,7,TECH,Apple,no,yes,yes,Thomas,present kids,,1
+IPhone 4 with Optus,2010-08-13,636,4,TECH,Apple,no,yes,yes,Thomas,???,200,1
+Apple Developer 2010,2010-08-15,119,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+Apple Mobile Me 2010,2010-12-28,119,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+BMW pants,2010-12-01,500,10,SHOE,BMW,yes,no,yes,Thomas,,,1
+Shun Knife small,2010-12-01,100,15,KTCH,Shun,yes,no,yes,Thomas,,,1
+Crumpler bag,2011-01-01,180,8,BAGS,Crumpler,yes,no,yes,Thomas,,,1
+Lowa hiking boots,2011-01-01,300,5,SHOE,Lowa,yes,no,yes,Thomas,done,,1
+Motor cycle rain jacket / pants,2011-01-01,200,10,CLTH,Rjays,no,no,yes,Thomas,,,1
+"Earphones, dock connector",2011-03-15,78,3,TECH,Apple,no,no,yes,Thomas,done,,1
+Ortlieb medium,2011-04-01,120,15,BAGS,Ortlieb,yes,no,yes,Thomas,,,1
+ASIC runners white,2011-06-01,160,4,SHOE,ASIC,yes,no,yes,Thomas,done,,1
+IPad 2,2011-08-15,918,4,TECH,Apple,no,yes,yes,Thomas,???,450,1
+Apple Developer 2011,2011-08-15,119,1,TECH,Apple,no,yes,no,Thomas,,,1
+BMW boots,2011-09-01,400,10,CLTH,BMW,yes,no,yes,Thomas,,,1
+Apple Bluetooth Keyboard,2011-09-01,75,7,TECH,Apple,no,yes,yes,Thomas,sold,40,1
+Apple Bluetooth Trackpad,2011-09-15,75,7,TECH,Apple,no,yes,yes,Thomas,sold ,40,1
+Apple OS Lion,2011-10-17,32,1,TECH,Apple,no,yes,yes,Thomas,superseded,,1
+Suit,2011-11-01,500,10,CLTH,Country Road,yes,no,yes,Thomas,,,1
+Volleyball,2011-12-01,60,8,TOYS,Mikasa,yes,no,yes,Thomas,,,1
+Bose,2012-01-01,399,8,TECH,Bose,yes,no,yes,Thomas,,,1
+IPad 3,2012-03-15,899,4,TECH,Apple,no,yes,yes,Thomas,present dad,,1
+ISO mats,2012-03-01,100,8,CAMP,Unknown,yes,no,yes,Thomas,,,1
+Bivouac sac,2012-04-01,300,10,CAMP,Unknown,yes,no,yes,Thomas,,,1
+Rain jacket / pants,2012-05-01,100,10,CLTH,Rjays,no,no,yes,Thomas,,,1
+Bolle,2012-06-01,60,5,LIFE,Bolle,yes,no,yes,Thomas,,,1
+Toyota Troopy Thomas,2012-07-01,30250,20,VHCL,Toyota,no,no,yes,Thomas,,,1
+ASIC grey runners,2012-07-01,140,4,SHOE,ASIC,yes,no,yes,Thomas,done,,1
+Wrench kit 2,2012-07-01,50,25,TOOL,Unknown,no,no,yes,Thomas,,,1
+Apple Developer 2012,2012-08-22,119,1,TECH,Apple,yes,yes,no,Thomas,superseded,,1
+IPhone 5,2012-09-22,899,4,TECH,Apple,no,yes,yes,Thomas,???,200,1
+Snorkel,2013-01-01,100,10,TOYS,Unknown,no,no,yes,Thomas,,,1
+MacBook Pro 15 Retina 2013,2013-03-01,3500,7,TECH,Apple,no,yes,yes,Thomas,when?,1800,1
+Winch,2013-04-01,200,8,TOOL,Unknown,no,no,yes,Thomas,,,1
+Compressor,2013-04-01,100,8,TOOL,Unknown,no,no,yes,Thomas,,,1
+Ortlieb large,2013-05-01,140,15,BAGS,Ortlieb,yes,no,yes,Thomas,,,1
+Apple Developer 2013,2013-08-22,99,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+iPad Mini 2013,2013-11-01,750,4,TECH,Apple,no,yes,yes,Thomas,,,1
+Fox helmet 2013,2013-12-01,160,5,TOYS,Fox,no,no,yes,Thomas,,,1
+Canon EOS 70d,2014-01-01,2000,10,TOYS,Canon,yes,no,yes,Thomas,04/03/2018,,1
+Vitamix,2014-12-01,1200,8,WHTG,Vitamix,yes,no,yes,Thomas,30/06/2017,600,1
+Watch Suunto,2013-11-01,450,5,TECH,Suunto,no,no,yes,Thomas,sold ,50,1
+Toaster,2013-12-01,160,5,WHTG,DeLonghi,yes,no,yes,Thomas,,,1
+Shun Knife Sashimi,2013-12-01,160,15,KTCH,Shun,yes,no,yes,Thomas,,,1
+Modem,2014-03-01,200,5,TECH,Unknown,no,no,yes,Thomas,,,1
+Mountain bike,2014-11-01,1200,10,TOYS,Avanti,no,no,yes,Thomas,,,1
+Mattress,2014-07-01,1000,5,FURN,Sealy,yes,no,yes,Thomas,,,1
+Tatonka,2014-02-01,250,8,BAGS,Tatonka,yes,no,yes,Thomas,01/04/2016,,1
+Deuter backpack,2014-02-01,160,8,BAGS,Deuter,yes,no,yes,Thomas,,,1
+Bosch grinder,2014-01-01,100,0,TOOL,Bosch,no,no,yes,Thomas,sold,,1
+Bosch circular saw,2014-03-01,150,0,TOOL,Bosch,no,no,yes,Thomas,14/07/2022,50,1
+Maui jim Wrap around,2014-03-01,280,5,LIFE,Maui Jim,yes,no,yes,Thomas,,,1
+Climbing belt,2014-04-01,150,15,TOYS,Petzl,yes,no,yes,Thomas,,,1
+Apple Developer 2014,2014-09-05,99,1,TECH,Apple,no,yes,no,Thomas,,,1
+IPhone 6,2014-09-20,999,4,TECH,Apple,no,yes,yes,Thomas,???,250,1
+Birkenstock,2014-12-01,160,5,SHOE,Birkenstock,yes,no,yes,Thomas,done,,1
+Lowa shoes 2014,2014-02-01,180,5,SHOE,Lowa,yes,no,yes,Thomas,done,,1
+UGG boots,2014-06-01,100,4,SHOE,UGG,yes,no,yes,Thomas,done,,1
+Kayak single,2015-06-01,250,10,TOYS,Unknown,no,no,yes,Thomas,sold,100,1
+Lowe backpack,2015-01-04,76,8,BAGS,Lowe,yes,no,yes,Thomas,,,1
+Bose soundtouch,2014-12-26,439,8,TECH,Bose,no,no,yes,Thomas,broken,,1
+Leatherman,2015-01-01,300,8,TOOL,Leatherman,yes,no,yes,Thomas,lost at CQU / Airport,,1
+Fox helmet 2015,2015-01-01,350,5,TOYS,Fox,no,no,yes,Thomas,,,1
+EM5.7,2015-01-10,9200,8,TOYS,EM,no,no,yes,Thomas,sold in 2018,,1
+Apple Macbook Pro 13 Retina,2015-05-05,3499,7,TECH,Apple,no,yes,yes,Thomas,15/11/2016,2400,1
+Bose Headphones,2015-05-22,250,5,TECH,Bose,yes,no,yes,Thomas,,,1
+Mac mini,2015-06-01,1369,8,TECH,Apple,no,yes,yes,Thomas,,,1
+Panasonic TV,2015-06-01,800,5,TECH,Panasonic,yes,no,yes,Thomas,01/08/2017,,1
+Apple Watch Series 0,2015-06-30,580,4,TECH,Apple,no,yes,yes,Thomas,30/05/2017,,1
+Apple Charger,2015-07-08,119,8,TECH,Apple,no,yes,yes,Thomas,,,1
+Swag,2015-09-04,450,8,CAMP,Unknown,yes,no,yes,Thomas,,,1
+iPhone 6s,2015-10-10,1229,4,TECH,Apple,no,yes,yes,Thomas,,,1
+NEANN kit,2015-11-10,500,15,TOYS,Neann,yes,no,yes,Thomas,,,1
+Apple Developer 2015,2015-10-15,149,,,,,,no,,,,1
+Xbox one,2015-11-27,319,5,TECH,Microsoft,yes,no,yes,Thomas,08/12/2019,,1
+NEANN drug kit,2015-11-30,200,5,TOYS,Neann,yes,no,yes,Thomas,,,1
+Wulf Helmet,2016-01-07,220,5,TOYS,Wulf,no,no,yes,Thomas,,,1
+Dyson V8,2016-10-07,550,5,TECH,Dyson,yes,no,yes,Thomas,,,1
+Apple Watch Series 0 Tara,2016-01-21,499,4,TECH,Apple,no,yes,yes,Thomas,broken,,1
+Apple iPadPro 12,2016-04-28,2100,4,TECH,Apple,no,yes,yes,Thomas,sold to Tanja Kiest,800,1
+Apple Macbook 12,2016-05-02,2500,7,TECH,Apple,no,yes,yes,Thomas,07/05/2017 to Tara!,1001,1
+Le Creuset skillet 20cm,2016-06-17,132,15,KTCH,Le Creuset,yes,no,yes,Thomas,,,1
+Apple USB-C Cable,2016-09-07,55,5,TECH,Apple,no,yes,yes,Thomas,,,1
+Apple Developer 2016,2016-10-11,149,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+Apple HDMI Adaptor,2016-10-24,129,7,TECH,Apple,no,yes,yes,Thomas,sold to tara with laptop,49,1
+Apple USB-C to USB-A adaptor,2016-11-10,12,7,TECH,Apple,no,yes,yes,Thomas,,,1
+Apple Watch Series 2,2017-02-15,880,4,TECH,Apple,no,yes,yes,Thomas,Given to leon,,1
+Birkenstock clog 2017,2017-01-01,140,5,SHOE,Birkenstock,yes,no,yes,Thomas,done,,1
+Fox mountain bike helmet,2017-02-01,180,8,TOYS,Fox,yes,no,yes,Thomas,,,1
+HUAWEI modem,2017-04-01,192,3,TECH,Huawei,no,no,yes,Thomas,,,1
+Apple HDMI Adaptor 2017,2017-04-01,75,7,TECH,Apple,no,yes,yes,Thomas,,,1
+MacBook Pro Touch 13,2017-04-26,3688,7,TECH,Apple,no,yes,yes,Thomas,21/12/2017,2000,1
+Apple Macbook Warranty,2017-05-01,339,1,TECH,Apple,no,yes,yes,Thomas,superseded,,1
+Thermomix,2017-06-04,1560,10,KTCH,Vorwerk,yes,no,yes,Thomas,,,1
+Cycle trainer,2017-05-28,99,5,TOYS,Unknown,no,no,yes,Thomas,done,,1
+Apple Cable,2017-06-28,35,7,TECH,Apple,no,yes,yes,Thomas,,,1
+Shipping Container,2017-07-15,3350,20,HOUS,Tiger Container,no,no,yes,Thomas,,,1
+Maui Jim eh brah,2017-08-10,335,8,LIFE,Maui Jim,yes,no,yes,Thomas,,,1
+"Dell Monitor 34""",2017-09-01,1091.2,5,TECH,Dell,no,yes,yes,Thomas,15/11/2018,700,1
+Macbook Pro Touch 15,2017-09-01,3689.1,7,TECH,Apple,no,yes,yes,Thomas,20/10/2018,2500,1
+Lowa Renegade Hiking Boots,2017-09-01,300,6,SHOE,Lowa,yes,no,yes,Thomas,done,,1
+Apple Developer 2017,2017-10-15,149,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+Maui Jim Wild Coast,2017-11-01,300,8,LIFE,Maui Jim,yes,no,yes,Thomas,,,1
+Apple Earpods Pro I,2017-11-04,229,5,TECH,Apple,no,no,yes,Thomas,,,1
+Sennheiser headphones,2017-11-26,399,6,TECH,Sennheiser,no,no,yes,Thomas,,,1
+Canon Lens,2017-12-23,950,10,TECH,Canon,yes,no,yes,Thomas,sold in ?? to Japanese guy,,1
+EM 2017,2017-12-12,12700,10,TOYS,EM,no,no,yes,Thomas,sold in 2020 to friend of richard k,,1
+IPhoneX,2017-12-19,1829,4,TECH,Apple,no,yes,yes,Thomas,done,,1
+Toolbox,2018-01-11,285,15,TOOL,Unknown,no,no,yes,Thomas,,,1
+Hebo Trials boots,2018-04-30,360,8,CLTH,Hebo,no,no,yes,Thomas,,,1
+Cupboard steel,2018-04-30,290,15,FURN,Unknown,no,no,yes,Thomas,,,1
+iPad 2018,2018-06-25,599,4,TECH,Apple,no,yes,yes,Thomas,10/08/2018 to Leon,0,1
+Crumpler backpack,2018-06-15,249,8,BAGS,Crumpler,yes,no,yes,Thomas,,,1
+Apple Charger 2018,2018-06-15,98,7,TECH,Apple,no,yes,yes,Thomas,,,1
+Watch Series 3 Tara,2018-06-30,459,4,TECH,Apple,yes,yes,yes,Thomas,given to Tara ,0,1
+Lowa shoes 2018,2018-07-30,187.096774193548,4,SHOE,Lowa,yes,no,yes,Thomas,done,,1
+Adidas runners 2018,2018-07-30,159.677419354839,4,SHOE,Adidas,yes,no,yes,Thomas,done,,1
+Birkenstock Arizona,2018-07-30,120.967741935484,4,SHOE,Birkenstock,yes,no,yes,Thomas,left at juergens in 2023,,1
+Ortlieb Roller,2018-08-10,433.870967741936,8,BAGS,Ortlieb,yes,no,yes,Thomas,,,1
+iPhone XS Max,2018-08-25,2049,4,TECH,Apple,no,yes,yes,Thomas,sold to Bernd in ??,750,1
+Phillips Iron,2018-09-08,429,8,WHTG,Phillips,yes,no,yes,Thomas,,,1
+MacBook Pro Touch 15 2018,2018-09-26,3699,5,TECH,Apple,no,yes,yes,Thomas,scam loss,0,1
+Watch Series 4,2018-10-14,799,4,TECH,Apple,no,yes,yes,Thomas,thrown in 2024,,1
+Apple Developer 2018,2018-10-15,149,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+IPad Pro,2018-11-08,2139,4,TECH,Apple,no,yes,yes,Thomas,given to Leon by Tara,0,1
+DJI Mavic Pro 2,2018-11-15,2499,6,TECH,DJI,no,no,yes,Thomas,,,1
+Indigenous art Sandra Ken,2018-12-01,800,20,FURN,Art,yes,no,yes,Thomas,Sold to brett,,1
+Indigenous art Serena Ken,2018-12-01,800,20,FURN,Art,yes,no,yes,Thomas,given to Timon and Phyllis,,1
+Samsung T5 1 TB SSD,2018-12-01,260,3,TECH,Samsung,no,yes,yes,Thomas,,,1
+50% of Troopy 2013,2018-12-01,16125,10,VHCL,Toyota,no,no,yes,Thomas,sold in 2020?,16125,1
+"Dell Monitor 38""",2018-12-15,1300,5,TECH,Dell,no,yes,yes,Thomas,29/01/2022,700,1
+BMW helmet 2019,2019-02-20,480,8,TOYS,BMW,no,no,yes,Thomas,,,1
+Salomon Cross 5 Trail runners,2019-03-03,140,3,SHOE,Salomon,yes,no,yes,Thomas,,,1
+NetGear Modem ADSL,2019-03-03,240,3,TECH,NetGear,no,no,yes,Thomas,,,1
+Samsung T5 2TB 2019,2019-05-05,300,5,TECH,Samsung,no,yes,yes,Thomas,,,1
+Sheridan Linen,2019-05-15,180,5,HOUS,Sheridan,yes,no,yes,Thomas,,,1
+Apple Keyboard and touchpad,2019-06-06,328,5,TECH,Apple,no,yes,yes,Thomas,,,1
+IPad 2018 for Timon,2019-06-30,599,4,TECH,Apple,no,yes,yes,Thomas,given to Timon,0,1
+Macbook Air Timon,2019-08-18,1529,7,TECH,Apple,no,no,yes,Thomas,given to Timon,0,1
+IPhone 7 from John for Leon,2019-09-10,200,4,TECH,Apple,no,yes,yes,Thomas,"given to Leon, replaced by leon in 2024",0,1
+EM 2020 VPXTC0101L0000852,2019-09-23,14605,10,TECH,EM,no,no,yes,Thomas,"Terrence Walker, 2026-09-27",4500,1
+Le Creuset skillet 26cm,2019-08-01,300,15,KTCH,Le Creuset,yes,no,yes,Thomas,,,1
+Birkenstock clog 2019,2019-08-12,167,6,SHOE,Birkenstock,yes,no,yes,Thomas,done,,1
+Apple HDMI Adaptor 2019,2019-09-10,99,7,TECH,Apple,no,yes,yes,Thomas,present leon?,,1
+iPhone 11 Pro,2019-09-20,1999,4,TECH,Apple,no,yes,yes,Thomas,???,1000,1
+Phone 11 Cover,2019-09-20,79,4,TECH,Apple,no,yes,yes,Thomas,sold with phone,,1
+Apple developer 2019,2019-10-15,149,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+Apple Tv,2019-11-29,279,8,TECH,Apple,no,no,yes,Thomas,,,1
+Sennheiser Momentum,2019-12-14,369,5,TECH,Sennheiser,no,no,yes,Thomas,Given to Linda,,1
+Le Creuset Skillet 24cm,2020-02-01,180,15,KTCH,Le Creuset,yes,no,yes,Thomas,,,1
+Kubota Tractor,2020-04-01,29900,15,HOUS,Kubota,no,no,yes,Thomas,,,1
+Cel Fi booster and antenna,2020-04-18,1039,5,TECH,CelFi,no,no,yes,Thomas,,,1
+"Milwaukee Drill, Driver",2020-06-21,659,8,TOOL,Milwaukee,no,no,yes,Thomas,"drill sold Aug 25, $230",230,1
+Milwaukee Chainsaw,2020-06-21,569,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Milwaukee 12 Ah Battery,2020-06-21,261,5,TOOL,Milwaukee,no,yes,yes,Thomas,broken,,1
+"Milwaukee Grinder, Grass Trimmer",2020-07-04,349,8,TOOL,Milwaukee,no,yes,yes,Thomas,stolen,,1
+"Milwaukee Power Head/Trimmer, stapler, torch",2020-07-04,583,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Milwaukee Torch,2020-07-04,72,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Milwaukee Stapler,2020-07-04,198,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Birkenstock Clog 2020,2020-07-30,160,5,SHOE,Birkenstock,yes,no,yes,Thomas,,,1
+Bosch Dryer,2020-07-20,1600,8,WHTG,Bosch,yes,no,yes,Thomas,,,1
+Netgear Modem 4G,2020-07-31,205,5,TECH,Netgear,no,no,yes,Thomas,,,1
+Milwaukee Cicular Saw,2020-08-10,450,5,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Macbook Pro Touch 16,2020-08-13,3959.1,7,TECH,Apple,no,yes,yes,Thomas,given to Tara ,,1
+Leica M10-R,2020-09-30,13500,15,TOYS,Leica,yes,no,yes,Thomas,,,1
+Leica Summicron 35,2020-09-30,4700,20,TOYS,Leica,yes,no,yes,Thomas,,,1
+Apple developer 2020,2020-10-15,149,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+Apple iPhone 12 Pro,2020-10-16,1869,4,TECH,Apple,no,yes,yes,Thomas,20/07/2023 gift to Bernd for stay,0,1
+iPhone Cover 2020,2020-11-18,89,4,TECH,Apple,no,yes,yes,Thomas,sold with phone,,1
+Kayak double,2020-11-18,1100,15,TOYS,Scorpio Kayak,no,no,yes,Thomas,,,1
+EM 2021 VPXTC0000M0000307,2020-11-23,16853,10,TOYS,EM,no,no,yes,Thomas,,,1
+LG Microwave,2020-11-30,229,5,WHTG,LG,yes,no,yes,Thomas,,,1
+Leica APO Summicron 90mm,2020-12-15,3650,15,TOYS,Leica,yes,no,yes,Thomas,,,1
+Kubota Mower Attachment,2021-03-13,2200,15,HOUS,Kubota,no,no,yes,Thomas,01/10/2022,,1
+Florsheim Shoes,2021-03-25,200,7,SHOE,Florsheim,yes,no,yes,Thomas,,,1
+Emu boots,2021-03-10,180,10,SHOE,Emu,yes,no,yes,Thomas,,,1
+Miele Vaccum,2021-03-27,599,15,WHTG,Miele,yes,no,yes,Thomas,Broken 26/12/23,,1
+Desky,2021-04-20,750,10,FURN,Desky,yes,yes,yes,Thomas,,,1
+Apple Keybaard and Mouse black,2021-04-21,368,7,TECH,Apple,no,yes,yes,Thomas,,,1
+IPad Pro M1 12.9 inch,2021-05-21,2600,4,TECH,Apple,no,yes,yes,Thomas,Given to Tara 24-11,,1
+Evolve skateboard,2021-05-10,2000,8,TOYS,Evolve,no,no,yes,Thomas,Sold for $1100,1100,1
+Apple Earpods Pro II Tara,2021-06-30,300,5,TECH,Apple,no,yes,yes,Thomas,,,1
+As26 lawn mower,2021-07-01,4220,10,HOUS,AS,no,no,yes,Thomas,given to Alex 9/26,0,1
+Milwaukeee Grinder 2021,2021-08-16,398,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Milwaukee Multi Tool,2021-08-16,306,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Milwaukee 18V 6Ah Battery 2021 II,2021-08-16,178,5,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Macbook air Leon ,2021-09-01,1833,7,TECH,Apple,no,no,yes,Thomas,given to Leon,0,1
+Milwauke 6Ah battery,2021-09-20,178,5,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Milwaukee 12V driver / 6Ah bat,2021-09-20,377,8,TOOL,Milwaukee,no,yes,yes,Thomas,sold,200,1
+Milwaukee hatchet,2021-09-22,259,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Milwaukee rotary hammer,2021-09-22,528,8,TOOL,Milwaukee,no,yes,yes,Thomas,sold ,150,1
+Milwaukee 12V driver duplicate,2021-09-22,0,8,TOOL,Milwaukee,no,yes,yes,Thomas,sold ,150,1
+Milwaukee hatchet duplicate,2021-09-22,0,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Icebreaker Jackets,2021-09-15,600,8,CLTH,Icebreaker,yes,no,yes,Thomas,,,1
+Leica ViewFinder,2021-10-10,800,8,TOYS,Leica,yes,no,yes,Thomas,,,1
+Milwaukee Sander,2021-10-15,209,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Milwaukee Vaccum,2021-10-15,268,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Milwaukee JigSaw,2021-10-15,367,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Milwaukee Laminate Trimmer,2021-10-15,346,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Apple Developer 2021,2021-10-15,149,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+"Bosch Induction cooktop, oven, range hood",2021-11-01,3800,10,WHTG,Bosch,yes,no,yes,Thomas,,,1
+Samsung Fridge,2021-11-17,1100,10,WHTG,Samsung,yes,no,yes,Thomas,,,1
+Le Creuset Shallow Casserole 30cm,2021-12-04,480,15,KTCH,Le Creuset,yes,no,yes,Thomas,,,1
+Leica Summicron M50 1.4,2021-12-13,6700,15,TOYS,Leica,yes,no,yes,Thomas,,,1
+MacBook Pro M1 14 inch 22,2022-01-07,3374,7,TECH,Apple,no,yes,yes,Thomas,12/06/2023 to Timon,1166,1
+Apple Studio Monitor,2022-06-10,2499,7,TECH,Apple,no,yes,yes,Thomas,,,1
+Starlink Kit,2021-08-24,983,6,TECH,SpaceX,no,yes,yes,Thomas,,,1
+"Apple Phone Cover, wireless charger",2022-09-13,139,2,TECH,Apple,no,yes,yes,Thomas,,,1
+iPhone 14 Pro,2022-10-10,1899,4,TECH,Apple,no,yes,yes,Thomas,???,700,1
+Apple developer 2022,2022-10-15,149,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+Milwaukee Planer,2022-10-17,279,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Sonos Arc,2022-11-12,1274,10,TECH,Sonos,yes,no,yes,Thomas,,,1
+Sonos Subwoofer,2022-11-26,900,10,TECH,Sonos,yes,no,yes,Thomas,,,1
+Samsung Neo OELD TV,2023-01-15,2174,10,TECH,Samsung,yes,no,yes,Thomas,,,1
+LOWA boots,2023-12-31,300,8,SHOE,Lowa,yes,no,yes,Thomas,,,1
+Milwaukee 18V 6Ah Battery 2023,2023-04-04,148,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Solar Install $7k + $18k,2023-04-24,25000,15,HOUS,Fronius,no,no,yes,Thomas,,,1
+Jardan sofa,2023-05-03,9984,10,FURN,Jardan,yes,no,yes,Thomas,,,1
+Macbook Pro M2 14inch 2023,2023-06-12,3599,7,TECH,Apple,no,yes,yes,Thomas,,,1
+FESTOOL plunge saw,2023-06-15,1599,10,TOOL,Festool,no,yes,yes,Thomas,,,1
+Sarah Ellison sofa,2023-06-30,1000,8,FURN,Sarah Ellison,yes,no,yes,Thomas,,,1
+Milwaukee Trimmer Plunge Base,2023-09-17,123,8,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+FESTOOL domino,2023-09-27,1945,10,TOOL,Festool,no,yes,yes,Thomas,,,1
+Sarah Ellison chair,2023-10-04,1300,8,FURN,Sarah Ellison,yes,no,yes,Thomas,,,1
+Phillips shaver,2023-10-04,230,8,LIFE,Phillips,yes,no,yes,Thomas,,,1
+Festool Rail joiner set,2023-09-03,94,8,TOOL,Festool,no,no,yes,Thomas,,,1
+Festool systainers 1,2023-10-05,277,10,TOOL,Festool,no,yes,yes,Thomas,,,1
+Festool systainers 2,2023-10-05,380,10,TOOL,Festool,no,yes,yes,Thomas,,,1
+Apple Developer 2023,2023-10-15,149,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+Peugeot e208,2023-11-03,45500,8,VHCL,Peugeot,no,no,yes,Thomas,,,1
+Festool systainers 3,2023-10-21,658,10,TOOL,Festool,no,yes,yes,Thomas,,,1
+Wattpilot,2023-11-28,1800,8,VHCL,Fronius,no,no,yes,Thomas,,,1
+SAMSUNG T7,2023-12-23,300,8,TECH,Samsung,no,yes,yes,Thomas,,,1
+Apple Watch SE Tara,2023-12-26,346,5,TECH,Apple,yes,yes,yes,Thomas,"given to Tara , now broken",0,1
+Festool vaccum,2023-12-26,1065,10,TOOL,Festool,no,yes,yes,Thomas,,,1
+Festool Sander,2023-01-03,1175,10,TOOL,Festool,no,yes,yes,Thomas,,,1
+Winnie bar stools,2024-01-02,1070,15,FURN,Huset,yes,no,yes,Thomas,,,1
+Festool CXS Drill,2024-01-12,670,10,TOOL,Festool,no,no,yes,Thomas,,,1
+Le Creuset Dutch Oven 24cm,2024-06-01,300,15,KTCH,Le Creuset,yes,no,yes,Thomas,,,1
+iPad Pro 13 M4 2024,2024-08-15,3400,4,TECH,Apple,no,yes,yes,Thomas,,,1
+Apple Earpods Pro II,2024-08-16,300,4,TECH,Apple,no,yes,yes,Thomas,,,1
+Milwaukee Arborist Chain Saw incl 2 8Ah Batteries,2024-09-21,1027.4,6,TECH,Milwaukee,no,yes,yes,Thomas,,,1
+Apple Watch Ultra,2024-09-26,1399,5,TECH,Apple,no,no,yes,Thomas,,,1
+Milwaukee Blower,2024-11-07,547,6,TOOL,Milwaukee,no,yes,yes,Thomas,,,1
+Apple developer 2024,2024-10-15,149,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+IPhone 16 Pro,2024-10-15,2000,4,TECH,Apple,no,yes,yes,Thomas,sold to Bernd 2025,700,1
+Apple Vision Pro,2024-12-05,6168,7,TECH,Apple,no,yes,yes,Thomas,sold to Mupo / Facebook. 2026-10-16,2500,1
+Festool Impact Driver and Drill,2025-06-10,998,8,TOOL,Festool,no,yes,yes,Thomas,,,1
+Toyota RAV4,2025-07-08,50000,10,VHCL,Toyota,no,no,yes,Thomas,,,1
+Salomon Cross 6 Trail Runners,2025-10-01,160,5,SHOE,Salomon,yes,no,yes,Thomas,,,1
+Apple developer 2025,2025-10-15,149,1,TECH,Apple,no,yes,no,Thomas,superseded,,1
+Le Creuset Dutch Oven 20cm,2025-12-04,300,15,KTCH,Le Creuset,yes,no,yes,Thomas,,,1
+iPhone 17 Pro,2025-12-08,1999,4,TECH,Apple,no,yes,yes,Thomas,,,1
+BMW R12GS,2025-12-01,29490,10,VHCL,BMW,no,no,yes,Thomas,,,1
+Milwaukee Inflator,2025-12-27,275,8,TOOL,Milwaukee,no,no,yes,Thomas,,,1
+BMW Motorbike boots,2025-12-29,442,10,TOYS,BMW,yes,no,yes,Thomas,,,1
+BMW Helmet for Tara,2026-04-03,765,10,TOYS,BMW,yes,no,yes,Thomas,,,1
+IPhone 18 Tara,2026-05-15,1099,7,TECH,Apple,no,yes,yes,Tara,,,
+Apple Macbook Pro 16 M5,2026-06-13,4299,7,TECH,Apple,no,yes,yes,Thomas,,,1
+Milwaukee Lawn Mower,2026-09-04,1449,8,HOUS,Milwaukee,yes,no,yes,Tara,,,1
+Milwaukee Power Head 2,2026-09-04,0,8,TOOL,Milwaukee,yes,no,yes,Tara,,,1
+Milwaukee Forge Batteries 2*8Ah,2026-09-04,0,8,TOOL,Milwaukee,yes,no,yes,Tara,,,1
+Milwaukee Super Charger,2026-09-04,0,8,TOOL,Milwaukee,yes,no,yes,Tara,,,1
+Salomon Cross 6 Wide 2026,2026-09-20,215,4,SHOE,Salomon,yes,no,no,Thomas,,,1
+Water Tank Big House,2026-10-18,3000,20,HOUS,Basix Tanks,no,no,yes,Tara,,,
+GHD Hair Straigthener,2026-11-10,600,8,WHTG,GHD,yes,no,yes,Tara,,,
+Dyson V10,2023-12-26,1000,8,WHTG,Dyson,yes,no,yes,Tara,,,
+Dyson Hair Dryer,2025-11-27,600,8,WHTG,Dyson,yes,no,yes,Tara,,,
+Phillips Air Fryer,2026-07-01,300,8,WHTG,Phillips,yes,no,yes,Tara,,,
+Robovac,2023-07-01,1200,8,WHTG,Robovac,yes,no,yes,Tara,,,
